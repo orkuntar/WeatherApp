@@ -9,7 +9,7 @@ namespace WeatherApp
     {
         static async Task Main(string[] args)
         {
-            string apiKey = "d8c7373ae357096554b031937264487d";
+            string apiKey = "";
             string city = "";
 
             Console.Write("Enter Your City: ");
